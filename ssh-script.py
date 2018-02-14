@@ -29,5 +29,5 @@ for ip in network_devices:
             file.write(buf)
             file.close()
         ssh.close()
-        except:
-            pass
+    except:
+        pass
