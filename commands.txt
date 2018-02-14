@@ -1,0 +1,14 @@
+#replace with any commands 
+
+
+!
+show ip interface brief
+!
+show version
+!
+show run | sec line vty
+!
+sh run interface loopback0
+!
+
+
